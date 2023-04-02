@@ -11,3 +11,7 @@ I've been fortunate to attend many different conferences and training sessions, 
 ![](images/AMD%20Academy%20Group.jpg)
 
 One exciting project I worked on to help facilitate the use of genomic data in public health is the [CDC Genomic Epidemiology Toolkit](https://www.cdc.gov/amd/training/covid-19-gen-epi-toolkit.html). In addition to the module I worked on, walking through Nextstrain trees, there modules on UsHER, wastewater, MicrobeTrace and more! It's a great resource and easy to work through since each module is self-contained and 10 minutes or less.
+
+One of my favorite tools for visualizing genomic epi data is [MicrobeTrace](https://microbetrace.cdc.gov/MicrobeTrace/) from the CDC. Unfortunately, I never had the opportunity to present my poster below as it was scheduled for a conference in March of 2020 that never happened due to COVID-19.
+
+![](images/MicrobeTrace%20Poster%205.pptx.jpg)
