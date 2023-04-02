@@ -10,10 +10,12 @@ website:
         href: https://twitter.com/krisandraa
       - icon: linkedin
         href: https://www.linkedin.com/in/krisandraallen/
+      - icon: github
+        href: https://github.com/genomicepi
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - publications.qmd
       - presentations.qmd
 
 format:
