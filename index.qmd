@@ -1,9 +1,9 @@
 ---
-title: "Welcome"
+title: ""
 ---
 
 **Krisandra Allen, MPH, MB(ASCP)^CM^**
 
-I'm an epidemiologist with experience in public health at a local health department, state health department, public health laboratory, and in the private sector. My favorite area of public health practice has always been foodborne and enteric disease, and I have a special place in my heart for norovirus (and once held the official job title of "norovirus epidemiology specialist").
+I'm an epidemiologist with a background in molecular biology and experience in public health at a local health department, state health department, public health laboratory, and in the private sector. My favorite area of public health practice has always been foodborne and enteric disease, and I have a special place in my heart for norovirus (and once held the official job title of "norovirus epidemiology specialist"). I love bringing together my two areas of experience (lab + epi) to advance the use of genomic epidemiology in public health.
 
 ![Sunrise in Kingston, Washington](images/DSC_1227.JPG){width="4000"}
