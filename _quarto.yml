@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  google-analytics: G-F6L2QHK99R
   title: ""
   navbar:
     tools:
@@ -18,7 +19,6 @@ website:
       - about.qmd
       - publications.qmd
       - presentations.qmd
-
 format:
   html:
     theme: minty
@@ -26,4 +26,5 @@ format:
     toc: true
 
 editor: visual
+
 
