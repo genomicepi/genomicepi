@@ -19,6 +19,7 @@ website:
       - about.qmd
       - publications.qmd
       - presentations.qmd
+
 format:
   html:
     theme: minty

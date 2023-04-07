@@ -21,3 +21,9 @@ Another tool I used extensively during foodborne disease outbreak investigations
 [Microreact](https://microreact.org/) is one of the programs that can be used to further explore the data from NCBI (among many other possible inputs and uses). Below is a screenshot of an example project where I took publicly available data on a cluster of *Legionella* and used that to create a Microreact project. If you want to check it out live and click around, you can go [here](https://microreact.org/project/5hsgtigrqvv5kkyssem6oe).
 
 [![Screenshot of a Microreact project](images/microreact.png){fig-align="center"}](https://microreact.org/project/5hsgtigrqvv5kkyssem6oe)
+
+Want to see more Genomic Epidemiology content? Visit my substack [here](https://genomicepi.substack.com/), or subscribe below
+
+```{=html}
+<iframe src="https://genomicepi.substack.com/embed" width="100%" height="300" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+```
