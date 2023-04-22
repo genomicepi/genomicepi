@@ -18,9 +18,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - jobs.qmd
-      - presentations.qmd
+      - href: publichealth.qmd
+        text: Public Health
+      - href: jobs.qmd
+        text: Genomic Epi Jobs
+      - href: newsletter.qmd
+        text: Newsletter
 
 format:
   html:
