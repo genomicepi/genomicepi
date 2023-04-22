@@ -20,7 +20,6 @@ website:
         text: Home
       - about.qmd
       - jobs.qmd
-      - publications.qmd
       - presentations.qmd
 
 format:

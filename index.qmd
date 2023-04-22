@@ -2,14 +2,47 @@
 title: ""
 ---
 
+### **About Me**
+
 **Krisandra Allen, MPH, MB(ASCP)^CM^**
 
 I'm an epidemiologist with a background in molecular biology and experience in public health at a local health department, state health department, public health laboratory, and in the private sector. My favorite area of public health practice has always been foodborne and enteric disease, and I have a special place in my heart for norovirus (and once held the official job title of "norovirus epidemiology specialist"). I love bringing together my two areas of experience (lab + epi) to advance the use of genomic epidemiology in public health.
 
 ![Sunrise in Kingston, Washington](images/DSC_1227.JPG){width="4000"}
 
-Visit my substack [here](https://genomicepi.substack.com/), or subscribe below
+### Publications
+
++:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+:-------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| [Travel history among persons infected with SARS-CoV-2 variants of concern in the United States, December 2020-February 2021](https://doi.org/10.1371/journal.pgph.0001252)                                                                                               | [Sentinel Surveillance System Implementation and Evaluation for SARS-CoV-2 Genomic Data, Washington, USA, 2020--2021](https://doi.org/10.3201/eid2902.221482) |
+|                                                                                                                                                                                                                                                                           |                                                                                                                                                               |
+| *PLOS Global Public Health, 2023*                                                                                                                                                                                                                                         | *Emerging Infectious Diseases, 2023*                                                                                                                          |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| [Associations Between Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Variants and Risk of Coronavirus Disease 2019 (COVID-19) Hospitalization Among Confirmed Cases in Washington State: A Retrospective Cohort Study](https://doi.org/10.1093/cid/ciac279) | [A Multiple-Serotype Outbreak of Salmonella Infections Linked to Kratom, United States, 2017-2018](https://doi.org/10.1089/fpd.2022.0013)                     |
+|                                                                                                                                                                                                                                                                           |                                                                                                                                                               |
+| *Clinical Infectious Diseases, 2022*                                                                                                                                                                                                                                      | *Foodborne Pathogens and Disease, 2022*                                                                                                                       |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| [Laboratory Review of Foodborne Disease Investigations in Washington State 2007--2017](https://doi.org/10.1089/fpd.2018.2592)                                                                                                                                             | [Shiga Toxin-Producing *E. coli* Infections Associated with Flour](https://doi.org/10.1056/NEJMoa1615910)                                                     |
+|                                                                                                                                                                                                                                                                           |                                                                                                                                                               |
+| *Foodborne Pathogens and Disease, 2019*                                                                                                                                                                                                                                   | *New England Journal of Medicine, 2017*                                                                                                                       |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| [Localization of MglA, an essential gliding motility protein in *Myxococcus xanthus*](https://doi.org/10.1002/cm.20447)                                                                                                                                                   |                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                           |                                                                                                                                                               |
+| *Cytoskeleton, 2010*                                                                                                                                                                                                                                                      |                                                                                                                                                               |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+### Presentations
+
+[Molecular Epidemiology in Public Health: Infectious Disease Surveillance and Outbreak Response](https://www.youtube.com/watch?v=2EX9l30bWFU)\
+University of Idaho Institute for Interdisciplinary Data Science Seminar
+
+[Walking through Nextstrain Trees](https://www.youtube.com/watch?v=lFmtfnDGbo4)\
+CDC Genomic Epidemiology Toolkit
+
+[ATG, GAC, What Can Sequencing Do For Me?](https://www.youtube.com/watch?v=CUznUQINlKk)\
+Washington State Integrated Food Safety Center of Excellence Webinar
+
+### Newsletter
 
 ```{=html}
-<iframe src="https://genomicepi.substack.com/embed" width="100%" height="300" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://genomicepi.substack.com/embed" width="100%" height="300" style="border:2px solid #78c2ad; background:#f3969a;" frameborder="0" scrolling="no"></iframe>
 ```

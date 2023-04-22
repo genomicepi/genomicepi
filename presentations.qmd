@@ -1,12 +1,12 @@
 ---
-title: "Presentations"
+title: "Newsletter"
 ---
 
-[Molecular Epidemiology in Public Health: Infectious Disease Surveillance and Outbreak Response](https://www.youtube.com/watch?v=2EX9l30bWFU)\
-University of Idaho Institute for Interdisciplinary Data Science Seminar
+```{=html}
+<div class="stackblocks-embed" data-stackblock="clgs2copm008708lahet229sw"></div>
+<script src="https://frame.stackblocks.app/frame.js"></script>
+```
 
-[Walking through Nextstrain Trees](https://www.youtube.com/watch?v=lFmtfnDGbo4)\
-CDC Genomic Epidemiology Toolkit
-
-[ATG, GAC, What Can Sequencing Do For Me?](https://www.youtube.com/watch?v=CUznUQINlKk)\
-Washington State Integrated Food Safety Center of Excellence Webinar
+```{=html}
+<iframe src="https://genomicepi.substack.com/embed" width="100%" height="300" style="border:2px solid #78c2ad; background:#f3969a;" frameborder="0" scrolling="no"></iframe>
+```

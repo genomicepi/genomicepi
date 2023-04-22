@@ -1,6 +1,8 @@
 ---
-title: "Publications"
+title: "Publications & Presentations"
 ---
+
+### Publications
 
 +:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+:-------------------------------------------------------------------------------------------------------------------------------------------------------------:+
 | [Travel history among persons infected with SARS-CoV-2 variants of concern in the United States, December 2020-February 2021](https://doi.org/10.1371/journal.pgph.0001252)                                                                                               | [Sentinel Surveillance System Implementation and Evaluation for SARS-CoV-2 Genomic Data, Washington, USA, 2020--2021](https://doi.org/10.3201/eid2902.221482) |
@@ -19,3 +21,14 @@ title: "Publications"
 |                                                                                                                                                                                                                                                                           |                                                                                                                                                               |
 | *Cytoskeleton, 2010*                                                                                                                                                                                                                                                      |                                                                                                                                                               |
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+### Presentations
+
+[Molecular Epidemiology in Public Health: Infectious Disease Surveillance and Outbreak Response](https://www.youtube.com/watch?v=2EX9l30bWFU)\
+University of Idaho Institute for Interdisciplinary Data Science Seminar
+
+[Walking through Nextstrain Trees](https://www.youtube.com/watch?v=lFmtfnDGbo4)\
+CDC Genomic Epidemiology Toolkit
+
+[ATG, GAC, What Can Sequencing Do For Me?](https://www.youtube.com/watch?v=CUznUQINlKk)\
+Washington State Integrated Food Safety Center of Excellence Webinar
