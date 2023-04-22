@@ -13,10 +13,13 @@ website:
         href: https://www.linkedin.com/in/krisandraallen/
       - icon: github
         href: https://github.com/genomicepi
+      - icon: envelope-at
+        href: mailto:krisandra@genomicepi.com
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - jobs.qmd
       - publications.qmd
       - presentations.qmd
 
