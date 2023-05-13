@@ -10,17 +10,16 @@ I've been fortunate to attend many different conferences and training sessions, 
 
 ![](images/AMD%20Academy%20Group.jpg){fig-align="center"}
 
-One exciting project I worked on to help facilitate the use of genomic data in public health is the [CDC Genomic Epidemiology Toolkit](https://www.cdc.gov/amd/training/covid-19-gen-epi-toolkit.html). In addition to the module I worked on, walking through Nextstrain trees, there modules on UsHER, wastewater, MicrobeTrace and more! It's a great resource and easy to work through since each module is self-contained and 10 minutes or less.
+**Selected resources for genomic epidemiology in public health**
 
-One critical piece of making genomic data more accessible and widely used, is software tools that allow for visualization and integration of epidemiologic data with sequencing data. One of the first tools I learned was [MicrobeTrace](#0) from the CDC. Unfortunately, I never had the opportunity to present my poster below as it was scheduled for a conference in March of 2020 that never happened due to COVID-19, but it shows a few of the capabilities of MicrobeTrace.
+**CDC's Advanced Molecular Detection (AMD)** [page](https://www.cdc.gov/amd/index.html) has a collection of resources and links out to additional resources such as the Pathogen Genomics Centers of Excellence. Another resource from AMD that I worked on with them is the [CDC Genomic Epidemiology Toolkit](https://www.cdc.gov/amd/training/covid-19-gen-epi-toolkit.html). It's a great resource and easy to work through since each module is self-contained and 10 minutes or less.
 
-![Poster designed for the 2019 Integrated Foodborne Outbreak and Response Meeting](images/MicrobeTrace%20Poster%205.pptx.jpg)
+**The Council of State and Territorial Epidemiologists (CSTE)** has an Advanced Molecular Detection subcommittee that meets regularly and provides webinars. Interested CSTE members can join the meetings, and webinar recordings are available to all [here](https://www.cste.org/page/WebinarLibrary).
 
-Another tool I used extensively during foodborne disease outbreak investigations is the [NCBI Pathogen Detection Portal](https://www.ncbi.nlm.nih.gov/pathogens/). NCBI has done a great job making this tool accessible, and it allows you to either browse through sequences, or search for a specific sequence of interest. Another great feature about this tool is that it makes it easy to export both metadata files (CSV or TSV) and phylogenetic tree files (Newick) which can then be used easily in other programs.
+**The Association of Public Health Laboratories (APHL)** provides training and resources through their Annual meeting as well as other special topics meetings, trainings and webinars that you can search through [here](https://www.aphl.org/training/Pages/All-Laboratory-Training-Events-Search.aspx).
 
-[Microreact](https://microreact.org/) is one of the programs that can be used to further explore the data from NCBI (among many other possible inputs and uses). Below is a screenshot of an example project where I took publicly available data on a cluster of *Legionella* and used that to create a Microreact project. If you want to check it out live and click around, you can go [here](https://microreact.org/project/5hsgtigrqvv5kkyssem6oe).
-
-[![Screenshot of a Microreact project](images/microreact.png){fig-align="center"}](https://microreact.org/project/5hsgtigrqvv5kkyssem6oe)
+**State Public Health Bioinformatics Group (STAPH-B)** is a consortium of bioinformaticians in public health working together to overcome barriers and share best practices. Recorded meetings and other trainings are linked through their [website](https://staphb.org/).**\
+**
 
 ```{=html}
 <iframe src="https://genomicepi.substack.com/embed" width="100%" height="300" style="border:2px solid #78c2ad; background:#f3969a;" frameborder="0" scrolling="no"></iframe>
