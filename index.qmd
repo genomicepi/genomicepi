@@ -35,11 +35,17 @@ I'm an epidemiologist with a background in molecular biology and experience in p
 [Molecular Epidemiology in Public Health: Infectious Disease Surveillance and Outbreak Response](https://www.youtube.com/watch?v=2EX9l30bWFU)\
 University of Idaho Institute for Interdisciplinary Data Science Seminar
 
+[Public Health Sequencing Dashboard and Reports](https://drive.google.com/file/d/1Pu9Zm-Gh0dcAOtEheu4OSTJXRan__B8a/view?usp=drive_link)\
+CSTE Webinar
+
 [Walking through Nextstrain Trees](https://www.youtube.com/watch?v=lFmtfnDGbo4)\
 CDC Genomic Epidemiology Toolkit
 
 [ATG, GAC, What Can Sequencing Do For Me?](https://www.youtube.com/watch?v=CUznUQINlKk)\
 Washington State Integrated Food Safety Center of Excellence Webinar
+
+[NCBI Pathogen Detection Portal](https://vimeo.com/657580470/de0cf5786a)\
+Association of Public Health Laboratories Webinar
 
 ### Newsletter
 

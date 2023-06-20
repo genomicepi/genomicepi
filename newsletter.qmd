@@ -6,7 +6,6 @@ title: "Newsletter"
 <div class="stackblocks-embed" data-stackblock="clgs2copm008708lahet229sw"></div>
 <script src="https://frame.stackblocks.app/frame.js"></script>
 ```
-
 ```{=html}
 <iframe src="https://genomicepi.substack.com/embed" width="100%" height="300" style="border:2px solid #78c2ad; background:#f3969a;" frameborder="0" scrolling="no"></iframe>
 ```
