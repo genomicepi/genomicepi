@@ -30,13 +30,10 @@ I'm an epidemiologist with a background in molecular biology and experience in p
 | *Cytoskeleton, 2010*                                                                                                                                                                                                                                                      |                                                                                                                                                               |
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-### Presentations
+### Recorded Presentations
 
 [Molecular Epidemiology in Public Health: Infectious Disease Surveillance and Outbreak Response](https://www.youtube.com/watch?v=2EX9l30bWFU)\
 University of Idaho Institute for Interdisciplinary Data Science Seminar
-
-[Public Health Sequencing Dashboard and Reports](https://drive.google.com/file/d/1Pu9Zm-Gh0dcAOtEheu4OSTJXRan__B8a/view?usp=drive_link)\
-CSTE Webinar
 
 [Walking through Nextstrain Trees](https://www.youtube.com/watch?v=lFmtfnDGbo4)\
 CDC Genomic Epidemiology Toolkit
