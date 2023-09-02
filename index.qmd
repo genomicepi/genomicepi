@@ -32,6 +32,9 @@ I'm an epidemiologist with a background in molecular biology and experience in p
 
 ### Recorded Presentations
 
+[Application of Web-Based Tools for Genomic Epidemiology](https://cste.sharefile.com/share/view/sd464507c524b43ebbb8bc3c350376956)\
+Council of State and Territorial Epidemiologists Webinar
+
 [Molecular Epidemiology in Public Health: Infectious Disease Surveillance and Outbreak Response](https://www.youtube.com/watch?v=2EX9l30bWFU)\
 University of Idaho Institute for Interdisciplinary Data Science Seminar
 
