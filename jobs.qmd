@@ -4,11 +4,11 @@ title: "Genomic Epi Jobs"
 
 Are you interested in finding a job in genomic epidemiology, or do you have a genomic epidemiology job to submit? You've come to the right place!
 
-Submit your job [here](https://docs.google.com/forms/d/e/1FAIpQLSfmT9udwf-E07_UNUDVS7fX5lLUxOk2QTwlcUu-0wVd9AgTCA/viewform?usp=sf_link), and view all submitted jobs below! I've included PDF links when available so you can view jobs even after they are taken down to get an idea of what types of jobs are available, or take inspiration while writing your own job descriptions.
+Submit your job [here](https://airtable.com/appZKVQFemWryKC6o/shrItFyyeE1STtIM1), and view all submitted jobs below! I've included PDF links when available so you can view jobs even after they are taken down to get an idea of what types of jobs are available, or take inspiration while writing your own job descriptions.
 
 ```{=html}
-<iframe width="100%" height="500" scrolling="no" style="overflow:hidden" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTPNukvK08F8J7p08jLX7M6gCFkfwSJyCHeyaimfmi-bS-zdtmZAxOKQYhYtlwfmTSW3vZ_d34lb_Ay/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appZKVQFemWryKC6o/shrdR7cChVrtSTSOU?backgroundColor=teal&layout=card&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 ```
 ```{=html}
-<iframe src="https://genomicepi.substack.com/embed" width="100%" height="300" style="border:2px solid #78c2ad; background:#f3969a;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://genomicepi.substack.com/embed" width="100%" height="310" style="border:2px solid #78c2ad; background:#f3969a;" frameborder="0" scrolling="no"></iframe>
 ```
