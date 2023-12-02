@@ -7,13 +7,6 @@
     "text": "About Me\nKrisandra Allen, MPH, MB(ASCP)CM\nI’m an epidemiologist with a background in molecular biology and experience in public health at a local health department, state health department, public health laboratory, and in the private sector. My favorite area of public health practice has always been foodborne and enteric disease, and I have a special place in my heart for norovirus (and once held the official job title of “norovirus epidemiology specialist”). I love bringing together my two areas of experience (lab + epi) to advance the use of genomic epidemiology in public health.\n\n\n\nSunrise in Kingston, Washington\n\n\n\n\nPublications\n\n\n\nTravel history among persons infected with SARS-CoV-2 variants of concern in the United States, December 2020-February 2021\nPLOS Global Public Health, 2023\nSentinel Surveillance System Implementation and Evaluation for SARS-CoV-2 Genomic Data, Washington, USA, 2020–2021\nEmerging Infectious Diseases, 2023\n\n\nAssociations Between Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Variants and Risk of Coronavirus Disease 2019 (COVID-19) Hospitalization Among Confirmed Cases in Washington State: A Retrospective Cohort Study\nClinical Infectious Diseases, 2022\nA Multiple-Serotype Outbreak of Salmonella Infections Linked to Kratom, United States, 2017-2018\nFoodborne Pathogens and Disease, 2022\n\n\nLaboratory Review of Foodborne Disease Investigations in Washington State 2007–2017\nFoodborne Pathogens and Disease, 2019\nShiga Toxin-Producing E. coli Infections Associated with Flour\nNew England Journal of Medicine, 2017\n\n\nLocalization of MglA, an essential gliding motility protein in Myxococcus xanthus\nCytoskeleton, 2010\n\n\n\n\n\n\nRecorded Presentations\nApplication of Web-Based Tools for Genomic Epidemiology\nCouncil of State and Territorial Epidemiologists Webinar\nMolecular Epidemiology in Public Health: Infectious Disease Surveillance and Outbreak Response\nUniversity of Idaho Institute for Interdisciplinary Data Science Seminar\nWalking through Nextstrain Trees\nCDC Genomic Epidemiology Toolkit\nATG, GAC, What Can Sequencing Do For Me?\nWashington State Integrated Food Safety Center of Excellence Webinar\nNCBI Pathogen Detection Portal\nAssociation of Public Health Laboratories Webinar\n\n\nNewsletter"
   },
   {
-    "objectID": "jobs.html",
-    "href": "jobs.html",
-    "title": "Genomic Epi Jobs",
-    "section": "",
-    "text": "Are you interested in finding a job in genomic epidemiology, or do you have a genomic epidemiology job to submit? You’ve come to the right place!\n\nJob listings\n\n\n\n\nSubmit a job\n\n\n\n\nNewsletter"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications & Presentations",
@@ -26,5 +19,12 @@
     "title": "Genomic Epidemiology and Public Health",
     "section": "",
     "text": "Public Health | Epidemiology | Molecular Biology\nThe last decade has brought about incredible advances in sequencing technologies, which have increasingly been leveraged for public health surveillance as well as outbreak detection and investigation. Successfully using genomic data requires a collaborative team and expertise across multiple disciplines including laboratory science, bioinformatics, and epidemiology. It has been exciting to see over the past decade how each of these fields has evolved.\nI’ve been fortunate to attend many different conferences and training sessions, one of my favorite being the Advanced Molecular Detection Academy in 2019. If you look hard, you’ll find me in the middle!\n\n\n\n\n\n\n\nResources for genomic epidemiology in public health\nCDC’s Advanced Molecular Detection (AMD) page has a collection of resources and links out to additional resources such as the Pathogen Genomics Centers of Excellence. Another resource from AMD that I worked on with them is the CDC Genomic Epidemiology Toolkit. It’s a great resource and easy to work through since each module is self-contained and 10 minutes or less.\nThe Council of State and Territorial Epidemiologists (CSTE) has an Advanced Molecular Detection subcommittee that meets regularly and provides webinars. Interested CSTE members can join the meetings, and webinar recordings are available to all here.\nThe Association of Public Health Laboratories (APHL) provides training and resources through their Annual meeting as well as other special topics meetings, trainings and webinars that you can search through here.\nState Public Health Bioinformatics Group (STAPH-B) is a consortium of bioinformaticians in public health working together to overcome barriers and share best practices. Recorded meetings and other trainings are linked through their website.\n\nAn applied genomic epidemiological handbook. by Alli Black and Gytis Dudas, available here."
+  },
+  {
+    "objectID": "jobs.html",
+    "href": "jobs.html",
+    "title": "Genomic Epi Jobs",
+    "section": "",
+    "text": "Are you interested in finding a job in genomic epidemiology, or do you have a genomic epidemiology job to submit? You’ve come to the right place!\n\nJob listings\n\n\n\n\nSubmit a job\n\n\n\n\nNewsletter"
   }
 ]
