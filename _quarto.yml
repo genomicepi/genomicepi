@@ -3,6 +3,10 @@ project:
   output-dir: docs
 
 website:
+  cookie-consent:
+    type: express
+    style: headline
+    palette: light
   google-analytics: G-F6L2QHK99R
   title: ""
   navbar:
