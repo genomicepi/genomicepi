@@ -1,0 +1,21 @@
+---
+title: "Genomic Epi Graduate Programs"
+---
+
+Are you interested in a graduate program in genomic epidemiology, or do you have a genomic epidemiology program you'd like to share? You've come to the right place!
+
+### Program listing
+
+```{=html}
+<iframe class="airtable-embed" src="https://airtable.com/embed/appiZK1wyNNfgMDKq/shrHlSloHHcPIWcT7?backgroundColor=teal&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+```
+### Submit a program
+
+```{=html}
+<iframe class="airtable-embed" src="https://airtable.com/embed/appiZK1wyNNfgMDKq/paggR1Y35CdiBYo2N/form" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+```
+### Newsletter
+
+```{=html}
+<iframe src="https://genomicepi.substack.com/embed" width="100%" height="315" style="border:2px solid #78c2ad; background:#f3969a;" frameborder="0" scrolling="no"></iframe>
+```

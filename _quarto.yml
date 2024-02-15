@@ -26,6 +26,8 @@ website:
         text: Public Health
       - href: jobs.qmd
         text: Genomic Epi Jobs
+      - href: programs.qmd
+        text: Genomic Epi Graduate Programs
       - href: newsletter.qmd
         text: Newsletter
 
