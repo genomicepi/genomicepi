@@ -23,13 +23,15 @@ website:
       - href: index.qmd
         text: Home
       - href: publichealth.qmd
-        text: Public Health
+        text: Training
       - href: jobs.qmd
         text: Genomic Epi Jobs
       - href: programs.qmd
         text: Genomic Epi Graduate Programs
       - href: newsletter.qmd
         text: Newsletter
+      - href: about_me.qmd
+        text: About Me
 
 format:
   html:
