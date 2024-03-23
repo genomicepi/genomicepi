@@ -24,8 +24,10 @@ title: "Training Resources"
 
 ### **Genomic epidemiology webinars and trainings**
 
-``` html
-<iframe class="airtable-embed" src="https://airtable.com/embed/appSloVkGaZAs0rOi/shr7x7TUgj219Hviy?backgroundColor=teal&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="800" style="background: transparent; border: 1px solid #ccc;"></iframe>
+Scroll through trainings here or you can download the whole table as a .csv file by clicking the download button at the bottom of the table. Do you have a training to add? Reach out to me (contact methods at top right of the page) to suggest new additions.
+
+```{=html}
+<iframe class="airtable-embed" src="https://airtable.com/embed/appSloVkGaZAs0rOi/shr7x7TUgj219Hviy?backgroundColor=teal&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 ```
 
 ------------------------------------------------------------------------
@@ -33,7 +35,7 @@ title: "Training Resources"
 ### Self-Study Exercises
 
 | Title                                                                                                                         | Description                                                                                                                                                                                                                                                                                                                                                                                           | Organizer                                                     |
-|---------------|-------------------------------------------|---------------|
+|------------------|-------------------------------------|------------------|
 | [Digital Epidemiology Workshop](https://cgps-group.github.io/digitalepiworkshop/hands-on/exercise.html)                       | Hands on exercise using web-based tools (EpiCollect, Pathogenwatch, Data-flo, Microreact) to conduct a genomic epidemiology investigation.                                                                                                                                                                                                                                                            | Centre for Genomic Pathogen Surveillance                      |
 | [Infectious Disease Genomic Epidemiology 2023](https://bioinformaticsdotca.github.io/IDE_2023)                                | This 4-day course from CBW provides an introduction to genomic epidemiology analysis followed by hands-on practical tutorials demonstrating the use of selected analysis tools. The tutorials are designed as self-contained units that include example data and detailed instructions for installation of all required bioinformatics tools or access to publicly available web applications.        | Bioinformatics.ca                                             |
 | [Whole genome multi locus sequence typing activity](https://cals.cornell.edu/new-york-integrated-food-safety/wgmlst-activity) | This activity was developed by the New York Integrated Food Safety Center of Excellence to provide public health staff or students of public health with an understanding of how whole genome sequencing (WGS), and particularly whole genome multi locus sequence typing (wgMLST), works as a subtyping method. The activity can be taken individually or in group (3-5 people per group suggested). | New York Food Safety Center of Excellence/ Cornell University |
