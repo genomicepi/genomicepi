@@ -4,7 +4,7 @@ title: "Training Resources"
 
 ### **Genomic epidemiology and bioinformatics webinars and trainings**
 
-Scroll through trainings here or you can download the whole table as a .csv file by clicking the download button at the bottom of the table. You can also view a full-sized version [here](https://airtable.com/appSloVkGaZAs0rOi/shr7x7TUgj219Hviy/tbldTWOW4A0chCvWu?backgroundColor=teal&viewControls=on) and easily group and filter to find trainings of interest. Do you have a training to add? Reach out to me (contact methods in the page header) to suggest new additions.
+Scroll through trainings here or you can download the whole table as a .csv file by clicking the download button at the bottom of the table. You can also view a full-sized version [here](https://airtable.com/appSloVkGaZAs0rOi/shr7x7TUgj219Hviy/tbldTWOW4A0chCvWu?backgroundColor=teal&viewControls=on) and easily group and filter to find trainings of interest. Do you have a training to add? Fill out the form at the bottom of page or [here!](https://airtable.com/appmUnvJg52dKORs1/pagYFaWvixEd9vfnv/form)
 
 ```{=html}
 <iframe class="airtable-embed" src="https://airtable.com/embed/appSloVkGaZAs0rOi/shr7x7TUgj219Hviy?backgroundColor=teal&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
@@ -15,7 +15,7 @@ Scroll through trainings here or you can download the whole table as a .csv file
 ### Self-Study Exercises
 
 | Title                                                                                                                         | Description                                                                                                                                                                                                                                                                                                                                                                                           | Organizer                                                     |
-|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+|------------------|------------------------------------|------------------|
 | [Digital Epidemiology Workshop](https://cgps-group.github.io/digitalepiworkshop/hands-on/exercise.html)                       | Hands on exercise using web-based tools (EpiCollect, Pathogenwatch, Data-flo, Microreact) to conduct a genomic epidemiology investigation.                                                                                                                                                                                                                                                            | Centre for Genomic Pathogen Surveillance                      |
 | [Infectious Disease Genomic Epidemiology 2023](https://bioinformaticsdotca.github.io/IDE_2023)                                | This 4-day course from CBW provides an introduction to genomic epidemiology analysis followed by hands-on practical tutorials demonstrating the use of selected analysis tools. The tutorials are designed as self-contained units that include example data and detailed instructions for installation of all required bioinformatics tools or access to publicly available web applications.        | Bioinformatics.ca                                             |
 | [Whole genome multi locus sequence typing activity](https://cals.cornell.edu/new-york-integrated-food-safety/wgmlst-activity) | This activity was developed by the New York Integrated Food Safety Center of Excellence to provide public health staff or students of public health with an understanding of how whole genome sequencing (WGS), and particularly whole genome multi locus sequence typing (wgMLST), works as a subtyping method. The activity can be taken individually or in group (3-5 people per group suggested). | New York Food Safety Center of Excellence/ Cornell University |
@@ -28,6 +28,10 @@ Scroll through trainings here or you can download the whole table as a .csv file
 
 -   **Wellcome Connecting Science** offers a variety of genomics and bioinformatics courses through [FutureLearn](https://www.futurelearn.com/partners/wellcome-genome-campus)
 
+------------------------------------------------------------------------
+
+### Submit a training here
+
 ```{=html}
-<iframe src="https://genomicepi.substack.com/embed" width="100%" height="315" style="border:2px solid #78c2ad; background:#f3969a;" frameborder="0" scrolling="no"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appmUnvJg52dKORs1/pagYFaWvixEd9vfnv/form" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"\>\</iframe\>
 ```
