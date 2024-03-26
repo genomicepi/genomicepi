@@ -30,6 +30,8 @@ website:
         text: Genomic Epi Graduate Programs
       - href: newsletter.qmd
         text: Newsletter
+      - href: game.qmd
+        text: AMR Game
       - href: about_me.qmd
         text: About Me
 

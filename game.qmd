@@ -1,0 +1,17 @@
+---
+title: "Making learning about antimicrobial resistance fun"
+---
+
+![](images/pathogen_pursuit.png){fig-align="center"}
+
+Antimicrobial resistance (AMR) is a global concern, and one of the challenges of raising awareness is the complexity of the problem. There are so many different pathogens and resistance mechanisms!
+
+Enter, games! Games are a great way to introduce complex topics in a fun and engaging way.
+
+Pathogen Pursuit: A Hospital Whodunit is a classic mystery game, but instead of solving a murder, players race to solve an outbreak in a hospital! The game features different Carbapenemase-producing Enterobacterales and an intrepid outbreak investigation team.
+
+::: callout-note
+## Coming soon!
+
+A printable version will be shared here soon!
+:::
