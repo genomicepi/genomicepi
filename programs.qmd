@@ -11,7 +11,7 @@ This is intended to be a broad listing of both programs that are specifically fo
 
 Use your mouse to navigate the map as well as zoom in or out. You'll notice the map right now is US programs - I'd love your help expanding the list globally! Please reach out or submit programs using the form below on the page.
 ```{=html}
-<iframe src="https://microreact.org/project/teDJWGS7NfzCeKYzq9Bwiw-grad-programs" frameborder="1" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe src="https://microreact.org/project/grad-programs" border="1" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 ```
 
 ### Program listing
