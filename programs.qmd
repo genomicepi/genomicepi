@@ -6,15 +6,23 @@ Are you interested in a graduate program in genomic epidemiology, or do you have
 
 This is intended to be a broad listing of both programs that are specifically focused on genomic epidemiology or closely-related disciplines, but also programs such as epidemiology PhD programs that have advisors available to allow students to complete genomic epidemiology focused research.
 
-### Program listing
 
+### Program map
+
+Use your mouse to navigate the map as well as zoom in or out. You'll notice the map right now is US programs - I'd love your help expanding the list globally! Please reach out or submit programs using the form below on the page.
 ```{=html}
-<iframe class="airtable-embed" src="https://airtable.com/embed/appiZK1wyNNfgMDKq/shrHlSloHHcPIWcT7?backgroundColor=teal&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe src="https://microreact.org/project/teDJWGS7NfzCeKYzq9Bwiw-grad-programs" frameborder="1" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 ```
-### Submit a program
 
+### Program listing
 ```{=html}
-<iframe class="airtable-embed" src="https://airtable.com/embed/appiZK1wyNNfgMDKq/paggR1Y35CdiBYo2N/form" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appiZK1wyNNfgMDKq/shrHlSloHHcPIWcT7?backgroundColor=teal&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="350" style="background: transparent; border: 1px solid #ccc;"></iframe>
+```
+
+### Submit a program
+Do you know of a graduate program that would be appropriate for someone interested in genomic epidemiology? Please submit it here to have it added to the list.
+```{=html}
+<iframe class="airtable-embed" src="https://airtable.com/embed/appopPYtAoGapvFmE/pagAX0eZKlDOgdRzZ/form" frameborder="0" onmousewheel="" width="100%" height="1200" style="background: transparent; border: 1px solid #ccc;"></iframe>
 ```
 ### Newsletter
 
