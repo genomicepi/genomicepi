@@ -4,13 +4,15 @@ title: "Making learning about antimicrobial resistance fun"
 
 ![](images/pathogen_pursuit.png){fig-align="center"}
 
+![](images/5EDE44DE-5B61-4A4A-92AC-9AD8B91B4CF4_1_105_c.jpeg)
+
 Antimicrobial resistance (AMR) is a global concern, and one of the challenges of raising awareness is the complexity of the problem. There are so many different pathogens and resistance mechanisms!
 
 Enter, games! Games are a great way to introduce complex topics in a fun and engaging way.
 
-Pathogen Pursuit: A Hospital Whodunit is a classic mystery game, but instead of solving a crime, players race to solve an outbreak in a hospital! The game features different Carbapenemase-producing Enterobacterales (CPE) and an intrepid outbreak investigation team. Players will learn about different bacterial species often associated with hospital-acquired infections as well as different carbapenemenases that are contributing to the global crisis of antimicrobial resistance.
+Pathogen Pursuit: A Hospital Whodunit is played like a detective game, but instead of solving a crime, players race to solve an outbreak in a hospital! The game features different Carbapenemase-producing Enterobacterales (CPE) and an intrepid outbreak investigation team. Players will learn about different bacterial species often associated with hospital-acquired infections as well as different carbapenemenases that are contributing to the global crisis of antimicrobial resistance.
 
-![](images/pathogen_pursuit.JPG)
+![](images/11EB44EE-BDD5-49F0-AFC8-57364AEB5EA1_1_105_c.jpeg)
 
 ::: callout-note
 ## Game Debut at the 2024 ECCMID Conference
@@ -19,6 +21,12 @@ I'll be presenting the game and have it available for play in the Science Play C
 
 ![](images/Presentation-01.png)
 :::
+
+#### Did you stop by the conference game table? I'd love your feedback! Submit it below.
+
+```{=html}
+<iframe class="airtable-embed" src="https://airtable.com/embed/appIcx3JTI2b0QQuc/shr71unlJelpMvx0h?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+```
 
 #### The making of Pathogen Pursuit: A Hospital Whodunit
 
