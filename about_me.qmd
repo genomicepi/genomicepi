@@ -51,7 +51,9 @@ Washington State Integrated Food Safety Center of Excellence Webinar
 [NCBI Pathogen Detection Portal](https://vimeo.com/657580470/de0cf5786a)\
 Association of Public Health Laboratories Webinar
 
-### Presentations
+### Slide Decks
+
+[Come Together: designing, implementing, and evaluating a multi-disciplinary advanced molecular detection workshop](https://github.com/genomicepi/genomicepi/blob/8b86a58fb329d5ad4be0a9046ff14420664c959b/images/K_Allen_CSTE%202024_%20AMD%20training%20presentation.pdf)
 
 ### Newsletter
 
