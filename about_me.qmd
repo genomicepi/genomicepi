@@ -10,6 +10,8 @@ I'm an epidemiologist with a background in molecular biology and experience in p
 
 I maintain this site to create a place to pull together resources and materials that can benefit the community. If you have anything you think would be helpful on the site, please reach out with recommendations!
 
+By day I work with [Digital Epidemiology Services](www.digitalepi.group) and work on genomicepi.com in my spare time.
+
 ![Sunrise in Kingston, Washington](images/DSC_1227.JPG){width="4000"}
 
 ### Publications
@@ -48,6 +50,8 @@ Washington State Integrated Food Safety Center of Excellence Webinar
 
 [NCBI Pathogen Detection Portal](https://vimeo.com/657580470/de0cf5786a)\
 Association of Public Health Laboratories Webinar
+
+### Presentations
 
 ### Newsletter
 
