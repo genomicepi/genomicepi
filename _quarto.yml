@@ -11,6 +11,8 @@ website:
   title: ""
   navbar:
     tools:
+      - icon: cloud
+        href: https://bsky.app/profile/genomicepi.com
       - icon: twitter
         href: https://twitter.com/krisandraa
       - icon: linkedin
@@ -22,18 +24,26 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: publichealth.qmd
+      - href: training.qmd
         text: Training
       - href: jobs.qmd
         text: Genomic Epi Jobs
       - href: programs.qmd
-        text: Genomic Epi Graduate Programs
+        text: Graduate Programs
+      - href: resources.qmd
+        text: Resources
       - href: newsletter.qmd
         text: Newsletter
       - href: game.qmd
         text: AMR Game
       - href: about_me.qmd
         text: About Me
+#  announcement: 
+#    icon: person-video2
+#    dismissable: true
+#    content: "Interested in joining a discussion? Join the <a href='https://community.genomicepi.org/' target='_blank' style='color: #4a4a4a; text-decoration: underline;'>genomic epidemiology community</a> to connect with others."
+#    type: primary
+#    position: below-navbar
 
 format:
   html:

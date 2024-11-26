@@ -1,0 +1,63 @@
+---
+title: "Resources"
+---
+
+One of the great things about this field and community is the number of resources available! Here are some of my recommendations for those in the genomic epidemiology field to watch or follow. I am slowly learning about all the great resources available outside my home country, please let me know if there are ones I should add to my list.
+
+**Organizations**
+
+-   [US Centers for Disease Control and Prevention Office of Advanced Molecular Detection](https://www.cdc.gov/advanced-molecular-detection/index.html)
+
+-   [Association of Public Health Laboratories](https://www.aphl.org/programs/infectious_disease/Pages/Advanced-Molecular-Detection.aspx)
+
+-   [Council of State and Territorial Epidemiologists](https://www.cste.org/page/AdvancedMolecularDetection)
+
+-   [American Society for Microbiology](https://asm.org/)
+
+-   [European Society of Clinical Microbiology and Infectious Diseases (ESCMID)](www.escmid.org)
+
+-   [Public Health Alliance for Genomic Epidemiology](https://pha4ge.org/)
+
+**Special Topics**
+
+-   [MalariaGEN (Genomic Epidemiology Network)](www.malariagen.net)
+
+-   [KlebNET (Global genomic surveillance platform for *Klebsiella pneumoniae)*](global%20genomic%20surveillance%20platform%20for%20Klebsiella%20pneumoniae)
+
+**Newsletters:**
+
+-   [Austrailan Pathogen Genomics Program (Auspathogen)](https://www.auspathogen.org.au/)
+
+-   [National Academies of Science, Engineering, and Medicine](https://www.nationalacademies.org/subscribe)
+
+-   [ESCMID: Newsletter](https://www.escmid.org/newsletter/) 
+
+**Training Sites:**
+
+-   [ECDC Virtual Academy](https://eva.ecdc.europa.eu/) 
+
+-   [Wellcome Connecting Science FutureLearn Courses](https://www.futurelearn.com/partners/wellcome-genome-campus)
+
+**Podcasts:**
+
+-   [MicroBinfie Podcast](https://microbinfie.github.io/)
+
+-   [Emerging Infectious Disease Podcast](https://wwwnc.cdc.gov/eid/podcasts)
+
+**X:** 
+
+-   [CDC Advanced Molecular Detection (\@CDC_AMD)](https://x.com/CDC_AMD)
+
+-   [APHL](https://x.com/APHL)
+
+-   [CDGN (\@CDGN_Australia)](https://x.com/CDGN_Australia)
+
+-   [African Centre of Excellence for Genomics of Infectious Diseases (ACEGID)](https://x.com/acegid)
+
+-   [Bioinformatics.ca (\@Bioinfodotca)](https://x.com/bioinfodotca) 
+
+**Bluesky:**\
+\
+I'm new on Bluesky, but I've put together a [starter pack](https://go.bsky.app/GihLe5P) with just a few of the amazing scientists out there - please join and help me add more!
+
+![](images/bluesky-01.png)
