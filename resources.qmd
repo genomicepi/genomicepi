@@ -58,6 +58,4 @@ One of the great things about this field and community is the number of resource
 
 **Bluesky:**\
 \
-I'm new on Bluesky, but I've put together a [starter pack](https://go.bsky.app/GihLe5P) with just a few of the amazing scientists out there - please join and help me add more!
-
-![](images/bluesky-01.png)
+I'm new on Bluesky, but I've put together a [starter pack](https://go.bsky.app/GihLe5P) with just a few of the amazing scientists out there.
